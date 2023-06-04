@@ -1,0 +1,10 @@
+.tweets-list{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.tweets-list_item{
+
+}

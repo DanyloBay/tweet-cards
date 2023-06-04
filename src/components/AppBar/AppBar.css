@@ -1,0 +1,24 @@
+.section-header{
+    padding: 10px;
+    border-bottom: 1px solid #373737;
+}
+
+.header-nav_list{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+.header-nav_list-item{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.header-nav_list-link
+{
+    color: #373737;
+    text-decoration: none;
+}
